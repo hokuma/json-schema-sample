@@ -1,0 +1,9 @@
+{
+  "description": "Todo API",
+  "id": "todo-api",
+  "links": [{
+    "href": "https://api.todo.com",
+    "rel": "self"
+  }],
+  "title": "Todo API"
+}
